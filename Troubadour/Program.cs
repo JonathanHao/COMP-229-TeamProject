@@ -8,6 +8,15 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
+/*
+ * ==================================================================================================
+ * Authors: Jonathan Hao, 
+ * Date Modified: Dec. 6, 2018
+ * Description: An e-commerce site for musical instruments.
+ * Version: 0.0.1 - Initial commit
+ * ==================================================================================================
+ */
+
 namespace Troubadour
 {
     public class Program
