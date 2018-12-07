@@ -12,3 +12,7 @@ Basic guide to collaborating on GitHub (as non-contributor):
   7. Jonathan will merge the changes to the main project.
   
 I (Jonathan) am new to collaborating on GitHub.  If you know a better way to handle this, please let me know.
+
+Basic guide to collaborating on Github:
+
+1.
