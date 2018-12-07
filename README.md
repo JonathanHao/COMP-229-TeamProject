@@ -1,5 +1,6 @@
 # COMP-229-TeamProject
 An e-commerce site for musical instruments.
+
 Basic guide to collaborating on GitHub:
 
   1. Fork the project (top right button on github)
