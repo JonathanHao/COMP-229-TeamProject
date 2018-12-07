@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
  * Authors: Jonathan Hao, 
  * Date Modified: Dec. 6, 2018
  * Description: An e-commerce site for musical instruments.
- * Version: 0.0.2 - Added some folders
+ * Version: 0.0.2 -  test2
  * ==================================================================================================
  */
 
